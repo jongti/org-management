@@ -1,5 +1,5 @@
 ---
-org: test
+org: test2
 space: space1
 allow-ssh: yes
 # space-auditor-group: test_space1_auditors

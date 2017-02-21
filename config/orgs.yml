@@ -1,0 +1,11 @@
+# org name
+org: test
+enable-org-quota: true
+# 10 GB limit
+memory-limit: 10240
+# unlimited
+instance-memory-limit: -1
+total-routes: 10
+# unlimited
+total-services: -1
+paid-service-plans-allowed: true

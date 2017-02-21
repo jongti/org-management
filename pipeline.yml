@@ -4,9 +4,9 @@ resources:
   source:
     uri: {{git_repo_uri}}
     branch: master
-- name: 15m
-  type: time
-  source: {interval: 15m}
+# - name: 15m
+#   type: time
+#   source: {interval: 15m}
 
 jobs:
 - name: create-orgs
